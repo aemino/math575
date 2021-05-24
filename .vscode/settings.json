@@ -1,5 +1,6 @@
 {
     "rust-analyzer.linkedProjects": [
-        "immunology/boolean-network/Cargo.toml"
+        "immunology/boolean-network/Cargo.toml",
+        "biophys/folding-1d/Cargo.toml",
     ]
 }
